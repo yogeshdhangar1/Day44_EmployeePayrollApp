@@ -102,5 +102,4 @@ class EmployeePayRollData{
         return "Id = "+this.id+", Name = "+this.name+", Gender = "+this.gender+", ProfilePic = "+this.profilePic+", Department = "+this.department+", Salary = "+this.salary+
                 ", StartDate = "+date+", Note = "+this.note;
     }
-
 }
